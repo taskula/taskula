@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💼 Developing and hosting free software at [Hypernova Oy](https://www.hypernova.fi).
+
+
 <!--
 **taskula/taskula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
