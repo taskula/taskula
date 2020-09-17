@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💼 Developing and hosting free software at [Hypernova Oy](https://www.hypernova.fi).
+👨‍💻 Free Software hosting at [Hypernova Oy](https://www.hypernova.fi).
 
 
 <!--
